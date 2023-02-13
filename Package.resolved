@@ -5,9 +5,9 @@
         "package": "Runestone",
         "repositoryURL": "https://github.com/simonbs/Runestone",
         "state": {
-          "branch": null,
-          "revision": "e9d220ae1a00b5ef00a7b6146d77f660f9e5dbe2",
-          "version": "0.2.10"
+          "branch": "mac",
+          "revision": "4c8043b72f5a38b12e33cf0e37d011e5a2509172",
+          "version": null
         }
       }
     ]
